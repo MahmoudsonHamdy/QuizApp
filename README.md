@@ -1,3 +1,2 @@
-# quiz_app
-
-![UI Quizz](quiz.gif)
+quiz_app
+UI Quizz
