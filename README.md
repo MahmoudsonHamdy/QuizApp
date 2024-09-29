@@ -1,2 +1,3 @@
-# QuizApp
-QuizApp
+# quiz_app
+
+![UI Quizz](quiz.gif)
